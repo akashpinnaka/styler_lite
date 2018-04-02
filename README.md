@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+In your app/assets/stylesheets/application.css, add the below line
+```ruby
+*= require 'styler_lite'
+```
 
 ## Development
 
