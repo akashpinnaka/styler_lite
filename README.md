@@ -1,5 +1,5 @@
 # StylerLite
-This is a light-weight gem which I created. It contains some pre-defined classes, where developers most often use them in their projects.
+This is a light-weight gem. It contains some pre-defined classes, where developers most often use them in their projects. Any contribution is appreciated.
 
 ## Installation
 
