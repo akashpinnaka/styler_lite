@@ -30,8 +30,8 @@ In your _app/assets/stylesheets/application.css_, add the below line
 ### Features in _styler_lite_ gem
 - It removes the margins, paddings, outlines of all the elements, so that you can give your own values.
 - It makes all levels of heading tags to Normal weight(Bold to normal)
-- It removes _text-decoration_ to all anchor tags ( <a> )
-- It removes _list_style_ to all unordered lists (<ul> )
+- It removes _text-decoration_ to all anchor tags ( a )
+- It removes _list_style_ to all unordered lists ( ul )
 - It loads up with **Arial** font
 - It gives _box_sizing: border-box;_
 - Clear fixing made easier
